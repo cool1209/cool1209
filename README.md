@@ -11,23 +11,11 @@
 ---
 
 ### 👋 About Me
-With 9+ years of experience, I am a versatile full-stack software engineer specializing in modern JavaScript frameworks (React, Vue, Next, Nuxt) and backend technologies (Node.js, Nest.js, Python, Django, Flask, PHP/Laravel, Go).  
+With 9+ years of experience, I am a versatile full-stack software engineer proficient in both front-end and back-end development. My focus is on modern JavaScript frameworks like **React, Next, Vue, Nuxt**, and backend technologies including **Node.js, Nest.js, Python (Django, Flask, FastAPI), PHP (Laravel), and Java**.  
 
-I also have solid DevOps experience: Docker, Kubernetes, Terraform, Ansible, CI/CD pipelines, and cloud platforms (AWS, GCP, Azure).  
+I also have DevOps experience with **Docker, Kubernetes, Terraform, Ansible**, and CI/CD pipelines. Cloud platforms like **AWS, GCP, and Azure** are also part of my expertise.  
 
-Soft skills include strong teamwork, adaptability, and problem-solving under pressure.  
-
----
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allthebest&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allthebest&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allthebest&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Soft skills include **team collaboration, adaptability, and efficient problem-solving under pressure**.
 
 ---
 
@@ -67,17 +55,3 @@ Soft skills include strong teamwork, adaptability, and problem-solving under pre
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0088CC?style=for-the-badge)
-
----
-
-### 🎯 Currently Learning / Experimenting With
-- AI & LangChain + Pinecone projects
-- Next.js 14 & React Server Components
-- Microservices & automation workflows
-
----
-
-### 📈 Profile Visitors
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Allthebest/count.svg" />
-</p>
