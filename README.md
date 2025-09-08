@@ -17,30 +17,23 @@
   <img align="right" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" />
 </p>
 
-With over **9 years of experience** in software development, I am a versatile **Full-Stack Engineer** with a strong foundation in both **frontend** and **backend** technologies. I specialize in creating **scalable, high-performance applications** and have a passion for **developing clean, maintainable code** that solves real-world problems.
+I am a **Full-Stack Software Engineer** with over **9 years of experience** building scalable, high-performance web applications and backend systems. I specialize in **modern JavaScript frameworks** like **React**, **Vue**, and **Next.js**, and have strong expertise in backend technologies such as **Node.js**, **Python**, and **PHP**.
 
-#### 🔑 **Key Highlights**:
-- **Frontend Expertise**: I’m skilled with modern frameworks like **React**, **Vue**, and **Next.js**, and use robust design systems like **TailwindCSS** and **Material-UI** to deliver responsive, user-friendly interfaces.
-- **Backend Proficiency**: I have extensive experience with **Node.js**, **Python (Django, Flask, FastAPI)**, **PHP (Laravel)**, and **Go**, building secure APIs and microservices.
-- **DevOps**: With a strong focus on **DevOps practices**, I am proficient in tools like **Docker**, **Kubernetes**, **Terraform**, **Ansible**, and other CI/CD tools to ensure smooth deployments and high availability.
-- **Cloud Platforms**: I work with cloud providers like **AWS**, **Google Cloud Platform (GCP)**, and **Azure**, leveraging their services to build robust, scalable architectures.
-- **Databases**: I am experienced in managing both **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB, Firebase) databases, ensuring efficient data storage and retrieval.
+Beyond development, I have significant experience in **DevOps**, working with tools like **Docker**, **Kubernetes**, and **Terraform** to streamline development pipelines and deploy applications reliably. I am also well-versed in **cloud platforms** like **AWS**, **GCP**, and **Azure**, enabling me to design and implement scalable architectures.
 
-#### 🌟 **What Drives Me**:
-- I thrive on **problem-solving** and enjoy diving deep into complex challenges to find elegant solutions.
-- I’m a lifelong learner, continuously expanding my skill set and staying updated with the latest industry trends.
-- Collaboration is at the heart of my work. I value teamwork and believe in mentoring others to empower them to grow.
+#### 🔑 **What I’m Passionate About**:
+- Building **intuitive, user-focused interfaces** and seamless user experiences.
+- Crafting **efficient backend APIs** and microservices for high-performance applications.
+- Exploring **AI integration** into applications, such as **OpenAI APIs** and **AI-assisted features**, to create smarter, more innovative products.
 
 #### 🌱 **Currently Exploring**:
-- **AI/ML**: Experimenting with machine learning frameworks like TensorFlow and PyTorch to build intelligent systems.
-- **Blockchain**: Exploring decentralized applications and smart contracts with Solidity and Web3.js.
+- **AI Integration**: Leveraging tools like **OpenAI**, **ChatGPT**, and other APIs to add intelligent features to applications.
+- **Cloud-Native Development**: Enhancing my expertise in Kubernetes and serverless architecture.
 
-#### 🛠️ **My Philosophy**:
-I believe that **software development is more than just writing code**—it's about solving problems, creating value, and making an impact. Whether it’s a small feature or a large-scale system, I approach every project with the same goal: to deliver excellence.
-
-Feel free to connect with me or check out my repositories to see some of my work! 🚀
+Feel free to explore my repositories to see my work or to collaborate on exciting projects! 🚀
 
 <br clear="right" />
+
 
 ---
 
@@ -62,7 +55,7 @@ Feel free to connect with me or check out my repositories to see some of my work
 </div>
 
 ### DevOps & Cloud Tools:
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" title="Terraform"/>
@@ -74,7 +67,7 @@ Feel free to connect with me or check out my repositories to see some of my work
 </div>
 
 ### Databases:
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
