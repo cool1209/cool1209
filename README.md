@@ -13,27 +13,26 @@
 
 <!-- About Me Section -->
 ### 👨‍💻 About Me
+
 <p>
-  <img align="right" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" />
+  <img align="right" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" style="margin-left: 20px;"/>
 </p>
 
-I am a **Full-Stack Software Engineer** with over **9 years of experience** building scalable, high-performance web applications and backend systems. I specialize in **modern JavaScript frameworks** like **React**, **Vue**, and **Next.js**, and have strong expertise in backend technologies such as **Node.js**, **Python**, and **PHP**.
+I am a **Full-Stack Software Engineer** with over **9 years of experience** in building scalable, user-focused applications. My expertise spans **frontend frameworks** like **React**, **Vue**, and **Next.js**, as well as **backend technologies** such as **Node.js**, **Python**, and **PHP**.
 
-Beyond development, I have significant experience in **DevOps**, working with tools like **Docker**, **Kubernetes**, and **Terraform** to streamline development pipelines and deploy applications reliably. I am also well-versed in **cloud platforms** like **AWS**, **GCP**, and **Azure**, enabling me to design and implement scalable architectures.
+In addition to development, I have significant experience in **DevOps** and **cloud platforms** like **AWS**, **GCP**, and **Azure**, enabling smooth deployments and efficient workflows.
 
-#### 🔑 **What I’m Passionate About**:
-- Building **intuitive, user-focused interfaces** and seamless user experiences.
-- Crafting **efficient backend APIs** and microservices for high-performance applications.
-- Exploring **AI integration** into applications, such as **OpenAI APIs** and **AI-assisted features**, to create smarter, more innovative products.
+#### 🌟 **What I’m Passionate About**:
+- Crafting intuitive **user experiences** and clean, maintainable codebases.
+- Integrating **AI-powered features** (e.g., OpenAI, ChatGPT) into applications to enhance functionality.
+- Streamlining workflows with robust **DevOps pipelines** and **cloud-based architectures**.
 
 #### 🌱 **Currently Exploring**:
-- **AI Integration**: Leveraging tools like **OpenAI**, **ChatGPT**, and other APIs to add intelligent features to applications.
-- **Cloud-Native Development**: Enhancing my expertise in Kubernetes and serverless architecture.
+- Enhancing my expertise in **AI integration** and **serverless architectures**.
 
-Feel free to explore my repositories to see my work or to collaborate on exciting projects! 🚀
+Feel free to explore my repositories or connect with me via email! 🚀
 
 <br clear="right" />
-
 
 ---
 
