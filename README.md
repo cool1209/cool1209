@@ -1,6 +1,6 @@
 <!-- Centered Heading with Typing Animation -->
 <h1 align="center">Hi 👋, Welcome to My GitHub Profile</h1>
-<h3 align="center">A Passionate Full-Stack Software Engineer and DevOps Specialist 🚀</h3>
+<h3 align="center">A Passionate AI Full-Stack Software Engineer and DevOps Specialist 🚀</h3>
 
 <!-- Typing Animation -->
 <p align="center">
