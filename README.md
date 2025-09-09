@@ -104,16 +104,6 @@ Feel free to explore my repositories or connect with me via email! 🚀
 
 ---
 
-<!-- Contact Info -->
-## 📧 Contact Me:
-<div align="center">
-  <a href="mailto:realdd521@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
-
----
-
 <!-- Fun Footer -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
